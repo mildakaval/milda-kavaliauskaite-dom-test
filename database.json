@@ -1,0 +1,136 @@
+{
+"apartment" : [
+    {
+    "id": "1",
+    "type": "house",
+    "owner": {
+      "fullname": "Jonas Petraitis",
+      "email": "jonaspet@gmail.com",
+      "phone": "+3706876523"
+    },
+    "roomCount": 5,
+    "squares": 1500,
+    "address": {
+      "city": "Vilnius",
+      "country": "Lietuva",
+      "street": "Meduolio g.",
+      "number": "5"
+    },
+    "price": {
+      "amount": 89000,
+      "currency": "$" 
+    },
+    "imgSrc": "https://cdn.vox-cdn.com/thumbor/frFQQhOsxl8DctGjkR8OLHpdKMs=/0x0:3686x2073/1200x800/filters:focal(1549x743:2137x1331)/cdn.vox-cdn.com/uploads/chorus_image/image/68976842/House_Tour_Liverman_3D6A3138_tour.0.jpg"
+  },
+  {
+    "id": "2",
+    "type": "house",
+    "owner": {
+      "fullname": "Marytė Stanaitytė",
+      "email": "stanaityte115@gmail.com",
+      "phone": "+3706423690"
+    },
+    "roomCount": 6,
+    "squares": 2500,
+    "address": {
+      "city": "Palanga",
+      "country": "Lietuva",
+      "street": "Gervuogių g.",
+      "number": "14"
+    },
+    "price": {
+      "amount": 950100,
+      "currency": "€" 
+    },
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXoqJxIpummLZ7t2Ulz9FcGfchzZx_KRfMmPVsLhkkneouNrRG8mQJ-kTlgQazg1VedM&usqp=CAU"
+  },
+  {
+    "id": "3",
+    "type": "flat",
+    "owner": {
+      "fullname": "Danas Karpis",
+      "email": "karpinis@gmail.com",
+      "phone": "+3706315209"
+    },
+    "roomCount": 3,
+    "squares": 90,
+    "address": {
+      "city": "Kaunas",
+      "country": "Lietuva",
+      "street": "Miko g.",
+      "number": "215"
+    },
+    "price": {
+      "amount": 35000,
+      "currency": "$" 
+    },
+    "imgSrc": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280609728.jpg?k=d5c511dacca99d75ccddf7e45323820643d5b2fe6ef043dea9e52bc12cf021ba&o=&hp=1"
+  },
+  {
+    "id": "4",
+    "type": "flat",
+    "owner": {
+      "fullname": "Kazys Kastytis",
+      "email": "kazkaz@gmail.com",
+      "phone": "+3706433268"
+    },
+    "roomCount": 4,
+    "squares": 200,
+    "address": {
+      "city": "Druskininkai",
+      "country": "Lietuva",
+      "street": "Gatvių g.",
+      "number": "67"
+    },
+    "price": {
+      "amount": 96000,
+      "currency": "€" 
+    },
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBvHl9muMq_EYMGvakHaTrBvCL_JOhxR-PQ&usqp=CAU"
+  },
+  {
+    "id": "5",
+    "type": "cottage",
+    "owner": {
+      "fullname": "Mantė Kantrutė",
+      "email": "mantute@gmail.com",
+      "phone": "+3706765498"
+    },
+    "roomCount": 4,
+    "squares": 110,
+    "address": {
+      "city": "Alytus",
+      "country": "Lietuva",
+      "street": "Draugo g.",
+      "number": "5"
+    },
+    "price": {
+      "amount": 78000,
+      "currency": "$" 
+    },
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsIERNcmsfyUsX8c27GaTh9som5MnJUIlTA&usqp=CAU"
+  },
+  {
+    "id": "6",
+    "type": "cottage",
+    "owner": {
+      "fullname": "Bronius Karosas",
+      "email": "karosiukas@gmail.com",
+      "phone": "+3706653428"
+    },
+    "roomCount": 5,
+    "squares": 410,
+    "address": {
+      "city": "Kaunas",
+      "country": "Lietuva",
+      "street": "Vasaros g.",
+      "number": "54"
+    },
+    "price": {
+      "amount": 99600,
+      "currency": "€" 
+    },
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8q0HgaRUzP-Bt1ZOVzGuS45VOyeAynoADw&usqp=CAU"
+  }
+ ]
+}
