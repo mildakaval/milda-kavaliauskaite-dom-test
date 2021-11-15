@@ -1,0 +1,23 @@
+{
+  "name": "milda-kavaliauskaite-dom-test",
+  "version": "1.0.0",
+  "description": "CA DOM atsiskaitymas",
+  "main": "index.js",
+  "scripts": {
+    "start-unix": "node_modules/.bin/json-server --watch database.json",
+    "start-win": "node_modules\\.bin\\json-server --watch database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildakaval/milda-kavaliauskaite-dom-test.git"
+  },
+  "author": "Milda Kavaliauskaite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mildakaval/milda-kavaliauskaite-dom-test/issues"
+  },
+  "homepage": "https://github.com/mildakaval/milda-kavaliauskaite-dom-test#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
