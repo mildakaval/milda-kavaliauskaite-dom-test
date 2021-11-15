@@ -2,10 +2,12 @@ const baseURL = 'http://localhost:3000';
 
 class API {
     static fetchApartment = (succes, failure) => {
+        setTimeout(() => {
         fetch(`${baseURL}/apartment`)
         .then(res => res.json())
         .then(succes)
-        .then(failure)
+        .catch(failure)
+        }, 1000);
     }
     static deleteApartment = (id, succes, failure) => {
         fetch(`${baseURL}/apartment/${id}`, { method: 'DELETE' })
